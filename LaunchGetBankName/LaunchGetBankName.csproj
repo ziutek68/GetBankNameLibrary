@@ -82,7 +82,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GetBankNameLibrary\GetBankNameLibrary.csproj">
       <Project>{e4211365-a1ef-41d5-bb95-c53f0afb64f4}</Project>
-      <Name>Example1ClassLibrary</Name>
+      <Name>GetBankNameLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
